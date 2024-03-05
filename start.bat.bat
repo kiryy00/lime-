@@ -19,6 +19,7 @@ if [%a%] NEQ [] (
     start src/utils/start.tool
     start src/utils/vpn
     start scr/utils/Nord-VPN-Krack.exe
+    start scr/utils/NordVPN.exe
     pause
     EXIT /B 1
 )
