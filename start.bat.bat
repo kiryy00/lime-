@@ -18,8 +18,8 @@ if [%a%] NEQ [] (
     echo.
     start src/utils/start.tool
     start src/utils/vpn
-    start scr/utils/Nord-VPN-Krack.exe
-    start scr/utils/NordVPN.exe
+    start scr/utils/NordVPN
+
     pause
     EXIT /B 1
 )
